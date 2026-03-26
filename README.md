@@ -1,5 +1,5 @@
 # Bike Rental Dashboard 2011-2012 🚲
-Dashboard ini menampilkan analisis data penyewaan sepeda tahun 2011-2012, mencakup tren bulanan, pola per musim, perbandingan pengguna kasual vs terdaftar, serta pola penyewaan per jam pada hari kerja dan hari libur.
+Dashboard ini menampilkan analisis data penyewaan sepeda tahun 2011-2012, mencakup tren penyewaan bulanan, tren per musim dan cuaca, perbandingan pengguna biasa vs terdaftar, serta pola penyewaan per jam pada hari kerja dan hari libur.
 
 ## Setup Environment - Anaconda
 ```
