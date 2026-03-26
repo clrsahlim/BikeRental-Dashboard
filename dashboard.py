@@ -74,6 +74,7 @@ fig, ax = plt.subplots(figsize=(20, 8))
 ax.plot(monthly_df["month"], monthly_df["total_rentals"], marker='o', linewidth=3, color="#8F3454")
 plt.xticks(rotation=45, fontsize=20)
 plt.yticks(fontsize=20)
+plt.ylim(bottom=0) 
 plt.tight_layout()
 st.pyplot(fig)
 
